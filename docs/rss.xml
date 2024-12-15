@@ -1,5 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LJT的博客</title><link>https://ted-li-git.github.io</link><description>这里是LJT的博客</description><copyright>LJT的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://q8.itc.cn/q_70/images03/20240219/42916279f6594265b7b47cabf6c6247e.jpeg</url><title>avatar</title><link>https://ted-li-git.github.io</link></image><lastBuildDate>Sun, 15 Dec 2024 06:52:27 +0000</lastBuildDate><managingEditor>LJT的博客</managingEditor><ttl>60</ttl><webMaster>LJT的博客</webMaster><item><title>github快速入门（注册登录篇）</title><link>https://ted-li-git.github.io/post/github-kuai-su-ru-men-%EF%BC%88-zhu-ce-deng-lu-pian-%EF%BC%89.html</link><description>&gt; [!IMPORTANT]&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LJT的博客</title><link>https://ted-li-git.github.io</link><description>这里是LJT的博客</description><copyright>LJT的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://q8.itc.cn/q_70/images03/20240219/42916279f6594265b7b47cabf6c6247e.jpeg</url><title>avatar</title><link>https://ted-li-git.github.io</link></image><lastBuildDate>Sun, 15 Dec 2024 08:00:48 +0000</lastBuildDate><managingEditor>LJT的博客</managingEditor><ttl>60</ttl><webMaster>LJT的博客</webMaster><item><title>github快速入门（创建储存库篇）</title><link>https://ted-li-git.github.io/post/github-kuai-su-ru-men-%EF%BC%88-chuang-jian-chu-cun-ku-pian-%EF%BC%89.html</link><description>找到这个'Create repository',单击&#13;
+![屏幕截图 2024-12-15 153256](https://github.com/user-attachments/assets/641d3efe-343d-4be9-8c48-42c683e53ffe)&#13;
+进入到这个页面就可以了&#13;
+![屏幕截图 2024-12-15 153756](https://github.com/user-attachments/assets/5184bb13-0168-4c4c-9034-69abde259f75)&#13;
+Repository name是储存库的名字（必填），Description是储存库描述，Public是储存库公开（所有人都能看到），Private是私密储存库（只有自己可以看到），其余的按需求填&#13;
+最后点击'Create repository'，就ok了&#13;
+&#13;
+下期预告：我们将在储存库中上传/添加文件&#13;
+。</description><guid isPermaLink="true">https://ted-li-git.github.io/post/github-kuai-su-ru-men-%EF%BC%88-chuang-jian-chu-cun-ku-pian-%EF%BC%89.html</guid><pubDate>Sun, 15 Dec 2024 08:00:20 +0000</pubDate></item><item><title>github快速入门（注册登录篇）</title><link>https://ted-li-git.github.io/post/github-kuai-su-ru-men-%EF%BC%88-zhu-ce-deng-lu-pian-%EF%BC%89.html</link><description>&gt; [!IMPORTANT]&#13;
 &gt; GitHub官网：github.com 需要有一个加速器，否则GitHub可能会响应超时（推荐使用steam++(Watt Toolkit)官网：https://steampp.net/ ）&#13;
 &#13;
 ![屏幕截图 2024-12-15 110025](https://github.com/user-attachments/assets/d6cae34b-4b48-413e-bbb7-2f7756464ebc)&#13;
