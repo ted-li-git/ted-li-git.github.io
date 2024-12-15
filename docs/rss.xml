@@ -1,5 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LJT的博客</title><link>https://ted-li-git.github.io</link><description>这里是LJT的博客</description><copyright>LJT的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://q8.itc.cn/q_70/images03/20240219/42916279f6594265b7b47cabf6c6247e.jpeg</url><title>avatar</title><link>https://ted-li-git.github.io</link></image><lastBuildDate>Sat, 14 Dec 2024 12:01:41 +0000</lastBuildDate><managingEditor>LJT的博客</managingEditor><ttl>60</ttl><webMaster>LJT的博客</webMaster><item><title>我的头像</title><link>https://ted-li-git.github.io/post/wo-de-tou-xiang.html</link><description>https://q8.itc.cn/q_70/images03/20240219/42916279f6594265b7b47cabf6c6247e.jpeg。</description><guid isPermaLink="true">https://ted-li-git.github.io/post/wo-de-tou-xiang.html</guid><pubDate>Sat, 14 Dec 2024 08:01:30 +0000</pubDate></item><item><title>我的第一篇博客</title><link>https://ted-li-git.github.io/post/wo-de-di-yi-pian-bo-ke.html</link><description>我的第一篇博客文章。</description><guid isPermaLink="true">https://ted-li-git.github.io/post/wo-de-di-yi-pian-bo-ke.html</guid><pubDate>Sat, 14 Dec 2024 07:37:54 +0000</pubDate></item><item><title>关于</title><link>https://ted-li-git.github.io/about.html</link><description>我是LJT&#13;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LJT的博客</title><link>https://ted-li-git.github.io</link><description>这里是LJT的博客</description><copyright>LJT的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://q8.itc.cn/q_70/images03/20240219/42916279f6594265b7b47cabf6c6247e.jpeg</url><title>avatar</title><link>https://ted-li-git.github.io</link></image><lastBuildDate>Sun, 15 Dec 2024 03:31:56 +0000</lastBuildDate><managingEditor>LJT的博客</managingEditor><ttl>60</ttl><webMaster>LJT的博客</webMaster><item><title>github快速入门（注册登录篇）</title><link>https://ted-li-git.github.io/post/github-kuai-su-ru-men-%EF%BC%88-zhu-ce-deng-lu-pian-%EF%BC%89.html</link><description>&gt; [!IMPORTANT]&#13;
+&gt; GitHub官网：github.com 需要有一个加速器，否则GitHub可能会响应超时（推荐使用steam++(Watt Toolkit)官网：https://steampp.net/）&#13;
+&#13;
+![屏幕截图 2024-12-15 110025](https://github.com/user-attachments/assets/d6cae34b-4b48-413e-bbb7-2f7756464ebc)&#13;
+到这个界面就成功了一半&#13;
+&gt; [!TIP]&#13;
+&gt; 有账号直接登陆即可，没账号的话请继续阅读&#13;
+&#13;
+接下来点击Sign up&#13;
+按照GitHub的提示输入你的邮箱，新建一个密码，然后输入用户名&#13;
+&#13;
+![屏幕截图 2024-12-15 111753](https://github.com/user-attachments/assets/7cb1cabe-152a-4746-9389-d3657b9b19d6)&#13;
+验证&#13;
+&#13;
+然后验证码会发到你刚才输入的邮箱里，输入验证码&#13;
+点击Sign in&#13;
+输入用户名/邮箱，和密码&#13;
+&#13;
+![屏幕截图 2024-12-15 112244](https://github.com/user-attachments/assets/674e3a43-3e1e-417c-ae2c-95ca0d411a79)&#13;
+进入到这个界面就成功了！&#13;
+&#13;
+下期预告：我们将创建我们自己第一个储存库。</description><guid isPermaLink="true">https://ted-li-git.github.io/post/github-kuai-su-ru-men-%EF%BC%88-zhu-ce-deng-lu-pian-%EF%BC%89.html</guid><pubDate>Sun, 15 Dec 2024 03:31:04 +0000</pubDate></item><item><title>我的头像</title><link>https://ted-li-git.github.io/post/wo-de-tou-xiang.html</link><description>https://q8.itc.cn/q_70/images03/20240219/42916279f6594265b7b47cabf6c6247e.jpeg。</description><guid isPermaLink="true">https://ted-li-git.github.io/post/wo-de-tou-xiang.html</guid><pubDate>Sat, 14 Dec 2024 08:01:30 +0000</pubDate></item><item><title>我的第一篇博客</title><link>https://ted-li-git.github.io/post/wo-de-di-yi-pian-bo-ke.html</link><description>我的第一篇博客文章。</description><guid isPermaLink="true">https://ted-li-git.github.io/post/wo-de-di-yi-pian-bo-ke.html</guid><pubDate>Sat, 14 Dec 2024 07:37:54 +0000</pubDate></item><item><title>关于</title><link>https://ted-li-git.github.io/about.html</link><description>我是LJT&#13;
 我的联系方式：&#13;
 tedlijunyu@outlook.com（推荐）&#13;
 ted-lijunyu@foxmail.com（备用）&#13;
