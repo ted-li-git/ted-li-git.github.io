@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> GitHub官网：github.com 需要有一个加速器，否则GitHub可能会响应超时（推荐使用steam++(Watt Toolkit)官网：https://steampp.net/）
+> GitHub官网：github.com 需要有一个加速器，否则GitHub可能会响应超时（推荐使用steam++(Watt Toolkit)官网：https://steampp.net/ ）
 
 ![屏幕截图 2024-12-15 110025](https://github.com/user-attachments/assets/d6cae34b-4b48-413e-bbb7-2f7756464ebc)
 到这个界面就成功了一半
