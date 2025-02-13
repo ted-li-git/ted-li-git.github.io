@@ -1,5 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LJT的博客</title><link>https://ted-li-git.github.io</link><description>这里是LJT的博客</description><copyright>LJT的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://q8.itc.cn/q_70/images03/20240219/42916279f6594265b7b47cabf6c6247e.jpeg</url><title>avatar</title><link>https://ted-li-git.github.io</link></image><lastBuildDate>Fri, 17 Jan 2025 05:51:18 +0000</lastBuildDate><managingEditor>LJT的博客</managingEditor><ttl>60</ttl><webMaster>LJT的博客</webMaster><item><title>test</title><link>https://ted-li-git.github.io/post/test.html</link><description># test
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LJT的博客</title><link>https://ted-li-git.github.io</link><description>这里是LJT的博客</description><copyright>LJT的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://q8.itc.cn/q_70/images03/20240219/42916279f6594265b7b47cabf6c6247e.jpeg</url><title>avatar</title><link>https://ted-li-git.github.io</link></image><lastBuildDate>Thu, 13 Feb 2025 09:01:42 +0000</lastBuildDate><managingEditor>LJT的博客</managingEditor><ttl>60</ttl><webMaster>LJT的博客</webMaster><item><title>在本地部署deepseek-r1 1.5b</title><link>https://ted-li-git.github.io/post/zai-ben-di-bu-shu-deepseek-r1%201.5b.html</link><description># deepseek简介
+众所周知，deepseek作为在年前出品的ai智能助手，以好用，成本低，迅速冲上了热搜，当然这样也会导致用户多，服务器忙不过来，所以用deepseek时服务器繁忙，回答慢都是家常便饭，但本地部署可以极大的优化这一问题（具体性能还是看什么版本，比如1.5b、7b、8b、14b这些版本）
+
+# 部署
+## 准备工作
+硬件要求参考下文：
+1. GPU 需求
+推荐 GPU：
+NVIDIA Tesla T4（16GB VRAM）
+NVIDIA RTX 3090（24GB VRAM）
+NVIDIA A100（40GB/80GB VRAM）
+最低 GPU：
+NVIDIA GTX 1080 Ti（11GB VRAM）或 RTX 2080 Ti（11GB VRAM）
+显存要求：
+1.5B 模型在 FP16 精度下需要约 3-4GB 显存。</description><guid isPermaLink="true">https://ted-li-git.github.io/post/zai-ben-di-bu-shu-deepseek-r1%201.5b.html</guid><pubDate>Thu, 13 Feb 2025 09:01:15 +0000</pubDate></item><item><title>test</title><link>https://ted-li-git.github.io/post/test.html</link><description># test
 test
 
 # test1
