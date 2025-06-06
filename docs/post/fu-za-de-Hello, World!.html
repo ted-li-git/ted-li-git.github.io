@@ -385,7 +385,7 @@ std::string <span class="pl-en">generateString</span>(<span class="pl-k">int</sp
         <span class="pl-k">try</span> {
             <span class="pl-k">auto</span> task = queue.<span class="pl-c1">pop</span>();
             <span class="pl-c1">task</span>();
-        } <span class="pl-k">catch</span> (<span class="pl-k">const</span> std::<span class="pl-c1">exception</span>&amp; e) {
+        } <span class="pl-k">catch</span> (<span class="pl-k">const</span> std::exception&amp; e) {
             std::cerr &lt;&lt; <span class="pl-s"><span class="pl-pds">"</span>捕获到异常: <span class="pl-pds">"</span></span> &lt;&lt; e.<span class="pl-c1">what</span>() &lt;&lt; std::endl;
             <span class="pl-c"><span class="pl-c">//</span> 模拟错误恢复</span>
             <span class="pl-c1">std::this_thread::sleep_for</span>(<span class="pl-c1">std::chrono::seconds</span>(<span class="pl-c1">1</span>));
