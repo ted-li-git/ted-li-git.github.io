@@ -1,5 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LJT的博客</title><link>https://ted-li-git.github.io</link><description>这里是LJT的博客</description><copyright>LJT的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://q8.itc.cn/q_70/images03/20240219/42916279f6594265b7b47cabf6c6247e.jpeg</url><title>avatar</title><link>https://ted-li-git.github.io</link></image><lastBuildDate>Sun, 08 Jun 2025 04:48:42 +0000</lastBuildDate><managingEditor>LJT的博客</managingEditor><ttl>60</ttl><webMaster>LJT的博客</webMaster><item><title>搭建一个论坛</title><link>https://ted-li-git.github.io/post/da-jian-yi-ge-lun-tan.html</link><description># 前言
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>LJT的博客</title><link>https://ted-li-git.github.io</link><description>这里是LJT的博客</description><copyright>LJT的博客</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://q8.itc.cn/q_70/images03/20240219/42916279f6594265b7b47cabf6c6247e.jpeg</url><title>avatar</title><link>https://ted-li-git.github.io</link></image><lastBuildDate>Sun, 15 Jun 2025 00:11:52 +0000</lastBuildDate><managingEditor>LJT的博客</managingEditor><ttl>60</ttl><webMaster>LJT的博客</webMaster><item><title>搭建网站的注意事项</title><link>https://ted-li-git.github.io/post/da-jian-wang-zhan-de-zhu-yi-shi-xiang.html</link><description># 前言
+昨天我数据库全没了，所以现在我想跟大家总结几个搭建网站的注意事项
+# 注意事项
+## 用github pages功能生成的网站
+注意：
+1.每天备份储存库
+这个防止某天你忘记了账号，或github打不开了
+解决方法：在桌面上创建一个批处理文件，内容如下：
+```bash
+cd /d C:\repo-name
+git pull
+```
+&gt; TIP:要提前安装好git:git-Windows下载链接:https://git-scm.com/downloads/win
+
+# 用服务器（有宝塔面板）搭建的网站
+注意：
+1.设置计划任务
+打开你服务器的宝塔面板，找到计划任务，点击添加任务，在任务类型里选备份网站/备份数据库，有条件的可以选数据库增量备份。</description><guid isPermaLink="true">https://ted-li-git.github.io/post/da-jian-wang-zhan-de-zhu-yi-shi-xiang.html</guid><pubDate>Sun, 15 Jun 2025 00:11:27 +0000</pubDate></item><item><title>搭建一个论坛</title><link>https://ted-li-git.github.io/post/da-jian-yi-ge-lun-tan.html</link><description># 前言
 我之前不是发了一个[17coding的文章](https://blog.ted-lijunyu.top/post/17coding.html)吗？当初我是打算建社区论坛的，但是因为资金不足，买不了服务器（我还是学生，没啥零花钱）所以用了[简笔记](https://minimablog.cn)但是后来我有了些money，就打算用服务器搭建论坛了。</description><guid isPermaLink="true">https://ted-li-git.github.io/post/da-jian-yi-ge-lun-tan.html</guid><pubDate>Sun, 08 Jun 2025 04:48:15 +0000</pubDate></item><item><title>17coding</title><link>https://ted-li-git.github.io/post/17coding.html</link><description># 正文
 最近花光积蓄，买了一个域名，然后就破产了（em...）
 -&gt;https://17coding.cc&lt;-
