@@ -1,1 +1,0 @@
-https://ted-lijunyu.top/LJT_Studio.pdf
