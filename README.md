@@ -1,2 +1,7 @@
-# ted-li-git.github.io
-github website
+- 👋 Hi, I’m @ted-li-git
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning computer
+- 📫 How to reach me ted-lijunyu@foxmail.com or tedlijunyu@outlook.com
+- 😄 Pronouns: ???
+- ⚡ Fun fact: Nothing
+-  ps:I don't understand English very well.
