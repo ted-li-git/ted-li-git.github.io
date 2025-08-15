@@ -35,6 +35,7 @@ TIP:只展示个人主页pinned的内容
 
 > ***Can you be my friend? ❤️***
 
-[![ted-li-git's GitHub stats](https://github-readme-stats.vercel.app/api?username=ted-li-git)](https://github.com/ted-li-git)
+### 我弄得小玩意
+[烟花](https://github.ted-lijunyu.top/fireworks)
 
 I ❤️ Github
