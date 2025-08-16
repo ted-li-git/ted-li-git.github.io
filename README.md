@@ -38,12 +38,4 @@ TIP:只展示个人主页pinned的内容
 ### 我弄得小玩意
 [烟花](https://github.ted-lijunyu.top/fireworks)
 
-### 🏠我的统计
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ted-li-git&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ted-li-git&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 I ❤️ Github
